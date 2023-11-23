@@ -1,0 +1,9 @@
+Log start : Mon Nov 20 21:35:01 2023
+
+Current Directory : C:\Users\lvida\Downloads\Gunz (1)\Gunz\Gunz 1.5 Repack by Jur13n #3 (Edited)\Client
+21:35:01:105   [APP] OS version :  (Build 9200)
+21:35:01:122   [APP] Window created successfully.
+21:35:11:513   [ZUpdate] Destroy.
+21:35:11:513   [ZFileTransfer] Destroy.
+21:35:11:513   [ZFileTransfer] Destroy successfly complete.
+21:35:11:513   [ZUpdate] Destroy successfully complete.
